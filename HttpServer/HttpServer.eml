@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.8 (2)" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="commons-fileupload-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar!/"/>
+	</lib>
+	<lib name="commons-io-1.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-1.4.jar!/"/>
+	</lib>
+	<lib name="fastjson-1.2.70.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/fastjson-1.2.70.jar!/"/>
+	</lib>
+	<lib name="hazelcast-all-3.12.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hazelcast-all-3.12.9.jar!/"/>
+	</lib>
+	<lib name="jackson-annotations-2.11.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-annotations-2.11.3.jar!/"/>
+	</lib>
+	<lib name="jackson-core-2.11.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-core-2.11.3.jar!/"/>
+	</lib>
+	<lib name="jackson-databind-2.11.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-databind-2.11.3.jar!/"/>
+	</lib>
+	<lib name="log4j-1.2.17.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/log4j-1.2.17.jar!/"/>
+	</lib>
+	<lib name="redisson-3.13.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/redisson-3.13.6.jar!/"/>
+	</lib>
+	<lib name="slf4j-api-1.7.30.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/slf4j-api-1.7.30.jar!/"/>
+	</lib>
+	<lib name="slf4j-log4j12-1.7.30.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.30.jar!/"/>
+	</lib>
+	<lib name="spring-beans-5.2.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-core-5.2.9.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar!/"/>
+	</lib>
+	<lib name="mysql-connector-java-8.0.16.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-8.0.16.jar!/"/>
+	</lib>
+	<lib name="javaee-api-8.0.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/javaee-api-8.0.1.jar!/"/>
+	</lib>
+	<levels>
+		<level name="lib" value="project"/>
+		<level name="lib1" value="project"/>
+		<level name="lib2" value="project"/>
+	</levels>
+</component>
